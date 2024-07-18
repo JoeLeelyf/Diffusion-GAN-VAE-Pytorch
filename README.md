@@ -4,7 +4,7 @@
 
 A collection of generative models, including **Diffusion**(DDPM), **VAE**(variational autoencoders), and **GAN**(Generative Adversarial Networks), implemented in pytorch. The aforementioned models are all trained on the MINIST dataset, and thus everyone can easily try to run them, even with no cuda device (except for diffusion model, which require complex conv. layers). The aim of this project is for provide a quick and simple working example for the three main generative models, so that every newcomer in the AIGC area can dive into concrete code while reading introductory papers or tutorials.
 
-Here are the results of each model.
+Here are the results of each model!
 
 **Diffusion**
 <p align="center">
